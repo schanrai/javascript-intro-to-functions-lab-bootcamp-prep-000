@@ -20,6 +20,7 @@ function sayHiToGrandma(string){
   }
 }
 
+
 console.log(shout("hello"));
 console.log(whisper("GOODBYE"));
 logShout("hello");
