@@ -7,3 +7,4 @@ function whisper (string){
 }
 
 shout("hello");
+console.log("Hello how are you");
