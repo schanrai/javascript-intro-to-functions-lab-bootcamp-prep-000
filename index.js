@@ -12,3 +12,4 @@ function logShout (string){
 
 console.log(shout("hello"));
 console.log(whisper("GOODBYE"));
+logShout("hello");
