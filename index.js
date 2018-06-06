@@ -6,5 +6,4 @@ function whisper (string){
   return string.toLowerCase()
 }
 
-shout("hello");
-console.log("Hello how are you");
+console.log(shout("hello"));
