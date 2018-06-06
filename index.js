@@ -17,4 +17,4 @@ function logWhisper(string){
 console.log(shout("hello"));
 console.log(whisper("GOODBYE"));
 logShout("hello");
-logWhisper("BEGONE!")
+logWhisper("BEGONE!");
